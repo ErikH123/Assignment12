@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignment12</string>
+    <string name="nappi">Nappi</string>
+    <string name="user_name">User name:</string>
+    <string name="email">Email:</string>
+    <string name="street">Street:</string>
+    <string name="city">City:</string>
+</resources>
